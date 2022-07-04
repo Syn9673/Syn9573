@@ -1,12 +1,7 @@
 ### Hi there! 👋  
-I'm **Alexander**, a **16** year old programmer from the **Philippines** @ **11th** Grade.  
+I'm **Alexander**
 I code in multiple languages, such as **Rust**, **C/C++**, **NodeJS**, **Typescript** and **React**.  
 I am currently working for a side project [BeefPS](https://github.com/beefps) as a **Web** and **Server** Developer.  
-
-💼 I am currently looking for a full time job as a Developer.  
-📫 If you'd like to contact me, you can contact me via the following:  
-  - **Email**: universecodes@gmail.com  
-  - **Discord**: Syn#1337
 
 <!--
 **Alexander9673/Alexander9673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
