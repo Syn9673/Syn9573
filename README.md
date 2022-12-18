@@ -1,5 +1,5 @@
 ### Hi there! 👋  
-I'm **Alexander**, a **17** year old programmer from the **Philippines** @ **11th** Grade.  
+I'm **Alexander**, a **17** year old programmer from the **Philippines** @ **12th** Grade.  
 I code in multiple languages, such as **Rust**, **C/C++**, **NodeJS**, **Typescript** and **React**.  
 
 💼 I am currently looking for a full time job as a Developer.  
