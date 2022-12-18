@@ -1,12 +1,11 @@
 ### Hi there! 👋  
-I'm **Alexander**.
-I code in multiple languages, such as **Rust**, **C/C++**, **Javascript**, **Typescript** and **React** along with other frontend languages such as **HTML** and **CSS**.  
-
-Currently learning: **Go**
+I'm **Alexander**, a **17** year old programmer from the **Philippines** @ **11th** Grade.  
+I code in multiple languages, such as **Rust**, **C/C++**, **NodeJS**, **Typescript** and **React**.  
 
 💼 I am currently looking for a full time job as a Developer.  
 📫 If you'd like to contact me, you can contact me via the following:  
-  - **Discord**: Syn#1337
+  - **Email**: universecodes@gmail.com  
+  - **Discord**: Syn#4175
 
 <!--
 **Alexander9673/Alexander9673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
