@@ -5,7 +5,7 @@ I code in multiple languages, such as **Rust**, **C/C++**, **NodeJS**, **Typescr
 💼 I am currently looking for a full time job as a Developer.  
 📫 If you'd like to contact me, you can contact me via the following:  
   - **Email**: universecodes@gmail.com  
-  - **Discord**: Syn#4175
+  - **Discord**: alx.syn
 
 <!--
 **Alexander9673/Alexander9673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
