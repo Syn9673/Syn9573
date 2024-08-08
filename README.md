@@ -1,10 +1,10 @@
 ### Hi there! 👋  
-I'm **Alexander**, a **17** year old programmer from the **Philippines** @ **12th** Grade.  
-I code in multiple languages, such as **Rust**, **C/C++**, **NodeJS**, **Typescript** and **React**.  
+I'm **Alexander**, a **19** year old programmer from the **Philippines** @ **2nd** yr college. Currently taking an Associate's Degree in Aviation Electronics. (Soon a Bachelor).  
+I code in multiple languages, such as **Rust**, **C/C++**, **NodeJS**, **Typescript** and **React**, **React Native**. I mostly focus on full stack development.  
 
 💼 I am currently looking for a full time job as a Developer.  
 📫 If you'd like to contact me, you can contact me via the following:  
-  - **Email**: universecodes@gmail.com  
+  - **Email**: alxx.syn@gmail.com  
   - **Discord**: alx.syn
 
 <!--
