@@ -1,6 +1,7 @@
 ### Hi there! 👋  
-I'm **Alexander*.  
-I code in multiple languages, such as **Rust**, **C/C++**, **NodeJS**, **Typescript** and **React**, **React Native**. I mostly focus on full stack development.  
+I'm **Alexander**.  
+I code in multiple languages, such as **Rust**, **C/C++**, **NodeJS**, **Typescript** and **React**, **React Native**.  
+I mostly focus on full stack development.  
 
 <!--
 💼 I am currently looking for a full time job as a Developer.  
